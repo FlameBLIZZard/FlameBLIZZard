@@ -1,45 +1,69 @@
-# 👋 Hey there, I'm Aditya Bhoite!
+<h1 align="center">🖤 Aditya Bhoite • AI/ML Developer in the Making</h1>
 
-🎓 I'm a 2nd-year Computer Science Engineering student with a passion for technology, learning, and building impactful AI/ML solutions. Currently on a focused journey to become a **Machine Learning / AI Developer** by October 2025.
-
-## 🚀 My Developer Journey
-
-I'm currently following a structured roadmap to become an AI/ML Developer, covering:
-
-- 🐍 Python Programming (Core + OOPs + Projects)
-- 💻 Data Structures & Algorithms (Concepts + Problem Solving)
-- 🔧 Tools: Git, GitHub, VS Code
-- 📊 Math for Machine Learning (Linear Algebra, Probability, Statistics)
-- 🤖 ML Foundations & Real-world Projects
-- 📁 Building a Strong Developer Portfolio
-
-> I study 2 hours a day, consistently, balancing learning with practical coding and version control.
-
-## 🛠️ Technologies I'm Working With
-
-- **Languages:** Python, C/C++
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-- **Domains:** AI/ML, Data Science (in progress), DSA (LeetCode & HackerRank), Open Source (soon)
-- **Frameworks & Libraries:** NumPy, Pandas, Matplotlib (coming soon)
-
-## 🧠 Currently Learning
-
-- Python Functions, Control Flow, Loops, and OOPs
-- Git & GitHub workflows for project management
-- DSA Concepts (Arrays, Strings, Patterns)
-- How to structure and contribute to real-world ML Projects
-
-## 📈 My Goal
-
-> To become a **skilled AI/ML Developer** with a solid foundation in Computer Science, a rich portfolio, and the ability to build and deploy intelligent systems.
-
-## 🌱 Let's Connect!
-
-- 📫 Email: [bhoiteadityagirish@gmail]
-- 🌐 Portfolio: Coming Soon!
-- 🐱 GitHub: [@FlameBLIZZard](https://github.com/FlameBLIZZard)
-- 💬 Always open to collaborate on open-source, ML, and DSA projects!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFD5&center=true&vCenter=true&width=1000&lines=CS+Engineering+Student+%F0%9F%93%9A;Future+ML+Engineer+%F0%9F%92%BB;Learning+Every+Single+Day+%F0%9F%93%9A;2+Hours+a+Day+Consistency+%E2%9A%94%EF%B8%8F;Projects%2C+DSA%2C+AI+%2B+Math+%3D+Goals+%F0%9F%94%AC" alt="Typing SVG" />
+</p>
 
 ---
 
-✨ _Building something meaningful, one commit at a time..._
+### 🧠 About Me
+
+> 🎓 **Computer Science Engineering** student (2nd Year)  
+> 🚀 On a mission to become a **Machine Learning Developer** by October 2025  
+> 📚 Following a structured AI/ML + DSA roadmap (2 hours/day)  
+> 🌱 Learning Python, Git, DSA Patterns, and ML Math  
+> 💻 Building projects to **solve real-world problems**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C/C++-101010?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F1502F" />
+  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-101010?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Jupyter-101010?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+</p>
+
+---
+
+### 🎯 Goals
+
+- ✅ Master Python and DSA Foundations  
+- ✅ Apply ML Math & Concepts in Projects  
+- ✅ Build an ML Portfolio & Resume  
+- ✅ Open-source contributions (coming soon)  
+- ✅ Launch a Developer Portfolio Website
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FlameBLIZZard&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FlameBLIZZard&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlameBLIZZard&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:bhoiteadityagirish@gmail.com"><img src="https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+  <a href="https://github.com/FlameBLIZZard"><img src="https://img.shields.io/badge/GitHub_Profile-101010?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<p align="center"><b>⚡ Consistency over intensity. Progress over perfection.</b></p>
