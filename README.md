@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FlameBLIZZard&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FlameBLIZZard&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FlameBLIZZard&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlameBLIZZard&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
