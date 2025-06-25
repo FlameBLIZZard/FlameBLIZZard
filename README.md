@@ -54,8 +54,10 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:bhoiteadityagirish@gmail.com"><img src="https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
-  <a href="https://github.com/FlameBLIZZard"><img src="https://img.shields.io/badge/GitHub_Profile-101010?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:bhoiteadityagirish@gmail.com"><img src="https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+  <a href="https://github.com/FlameBLIZZard"><img src="https://img.shields.io/badge/GitHub_Profile-101010?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/_aditya_bhoite"><img src="https://img.shields.io/badge/Instagram-101010?style=for-the-badge&logo=instagram&logoColor=E1306C" /></a>
+  <a href="https://x.com/aditya_bhoite00"><img src="https://img.shields.io/badge/X_(Twitter)-101010?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
 </p>
 
 ---
