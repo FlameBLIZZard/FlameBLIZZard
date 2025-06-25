@@ -35,9 +35,9 @@ I'm currently following a structured roadmap to become an AI/ML Developer, cover
 
 ## 🌱 Let's Connect!
 
-- 📫 Email: [Your Email Here]
+- 📫 Email: [bhoiteadityagirish@gmail]
 - 🌐 Portfolio: Coming Soon!
-- 🐱 GitHub: [@adityabhoite](https://github.com/adityabhoite)
+- 🐱 GitHub: [@FlameBLIZZard](https://github.com/FlameBLIZZard)
 - 💬 Always open to collaborate on open-source, ML, and DSA projects!
 
 ---
